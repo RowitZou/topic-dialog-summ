@@ -24,7 +24,7 @@ The code is partially referred to https://github.com/nlpyang/PreSumm.
 
 Each json file is a data list that includes dialogue samples. The format of a dialogue sample is shown as follows:
 
-```json
+```
 {"session": [
     // Utterance
     {
