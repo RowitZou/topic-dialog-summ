@@ -110,4 +110,5 @@ Each json file is a data list that includes dialogue samples. The format of a di
 
 Our dialogue summarization dataset is collected from [Alibaba customer service center](https://114.1688.com/kf/contact.html). All dialogues are incoming calls in Mandarin Chinese that take place between a customer and a service agent. For the security of private information from customers, we performed the data desensitization and converted words to IDs.
 
-The desensitized data will be released soon.
+The desensitized data is available at 
+[Google Drive](https://drive.google.com/file/d/1X3-C9vTYfk43T5NIEvRsdRIJkN1RuG7b/view?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1AvkGnerKpQHUNbwkz9kO7A) (extract code: t6nx).
