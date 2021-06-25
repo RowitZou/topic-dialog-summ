@@ -1,6 +1,6 @@
 # Topic-Dialog-Summ
 
-Pytorch implementation of the AAAI-2021 paper: [Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling](https://arxiv.org/pdf/2012.07311).
+Pytorch implementation of the AAAI-2021 paper: [Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/17723/17530).
 
 The code is partially referred to https://github.com/nlpyang/PreSumm.
 
@@ -112,3 +112,17 @@ Our dialogue summarization dataset is collected from [Alibaba customer service c
 
 The desensitized data is available at 
 [Google Drive](https://drive.google.com/file/d/1X3-C9vTYfk43T5NIEvRsdRIJkN1RuG7b/view?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1AvkGnerKpQHUNbwkz9kO7A) (extract code: t6nx).
+
+## Citation
+	@article{Zou_Zhao_Kang_Lin_Peng_Jiang_Sun_Zhang_Huang_Liu_2021,
+		 title={Topic-Oriented Spoken Dialogue Summarization for Customer Service with Saliency-Aware Topic Modeling},
+		 volume={35},
+		 url={https://ojs.aaai.org/index.php/AAAI/article/view/17723},
+		 number={16},
+		 journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+		 author={Zou, Yicheng and Zhao, Lujun and Kang, Yangyang and Lin, Jun and Peng, Minlong and Jiang, Zhuoren and Sun, Changlong and Zhang, Qi and Huang, Xuanjing and Liu, Xiaozhong},
+		 year={2021},
+		 month={May},
+		 pages={14665-14673}
+		}
+
